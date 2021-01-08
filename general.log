@@ -1,0 +1,8 @@
+[2020-12-29 23:27:11 INFO]: install::setup-logging ended
+================
+[2020-12-29 23:27:11 INFO]: install::start-up started
+[2020-12-29 23:27:11 INFO]: install::start-up build image
+[2020-12-29 23:27:11 INFO]: install::start-up enabling xhost connection to image
+[2020-12-29 23:27:11 INFO]: install::start-up running image
+[2020-12-29 23:27:11 INFO]: install::start-up ended
+================
